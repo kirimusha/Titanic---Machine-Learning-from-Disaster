@@ -1,5 +1,7 @@
 # Model-for-AI-challenge
 
+https://aiijc.com/ru/
+
 <img width="1551" height="616" alt="image" src="https://github.com/user-attachments/assets/d67c000d-044c-47bd-beb0-15931fb24a70" />
 
 <img width="809" height="450" alt="image" src="https://github.com/user-attachments/assets/03d38322-b7c4-458d-8006-2417b403d589" />
