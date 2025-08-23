@@ -1,12 +1,11 @@
-# Model-for-AI-challenge
+Dataset Description
+Overview
+The data has been split into two groups:
 
-https://aiijc.com/ru/
+training set (train.csv)
+test set (test.csv)
+The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
 
-<img width="1551" height="616" alt="image" src="https://github.com/user-attachments/assets/d67c000d-044c-47bd-beb0-15931fb24a70" />
+The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic.
 
-<img width="809" height="450" alt="image" src="https://github.com/user-attachments/assets/03d38322-b7c4-458d-8006-2417b403d589" />
-
-<img width="779" height="524" alt="image" src="https://github.com/user-attachments/assets/b04b5bd5-a592-4264-ba95-a5fb910391b7" />
-
-<img width="1403" height="394" alt="image" src="https://github.com/user-attachments/assets/eb03ae13-4f41-4303-8cf3-a9393a82cd57" />
-
+We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
